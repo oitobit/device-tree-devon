@@ -8,7 +8,7 @@ git clone https://github.com/LineageOS/android_hardware_motorola hardware/motoro
 
 git clone https://github.com/LineageOS/android_system_qcom system/qcom
 
-git clone https://github.com/TheMuppets/proprietary_vendor_motorola_devon /vendor/motorola/devon
+git clone https://github.com/TheMuppets/proprietary_vendor_motorola_devon vendor/motorola/devon
 
-git clone https://github.com/TheMuppets/proprietary_vendor_motorola_sm6225-common /vendor/motorola/sm6225-common
+git clone https://github.com/TheMuppets/proprietary_vendor_motorola_sm6225-common vendor/motorola/sm6225-common
 
